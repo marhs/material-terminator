@@ -2,7 +2,7 @@ Material for Terminator
 =======================
 Marco Herrero <me@marhs.de>
 
-![material-dual](https://github.com/marhs/material-terminator/raw/master/img/mix.png)]
+![material-dual](https://raw.githubusercontent.com/marhs/material-terminator/master/img/mux.png)]
 
 Material is a color scheme for Terminator (terminal emulator). It's a fork of PaperColor, a color scheme for Vim designed by NLKNguyen.
 
