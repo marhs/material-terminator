@@ -1,6 +1,6 @@
 Material for Terminator
 =======================
-Marco Herrero <me@marhs.de>
+
 
 ![material-dual](https://raw.githubusercontent.com/marhs/material-terminator/master/img/mux.png)
 
